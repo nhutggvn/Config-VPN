@@ -51,7 +51,7 @@ if (reg2.test($request.url)) {
         appId = arr.join(",");
     }
     $persistentStore.write(appId, "APP_ID");
-    $notification.post("TestFlight Auto Join", `APP_ID added: ${id}`, `Current IDs: ${appId}`);
+    $notification.post("TestFlight Auto Join", `APP_ID added: ${id}`, `Quét Slot Còn lại: ${appId}`);
     $done({});
 }
 
