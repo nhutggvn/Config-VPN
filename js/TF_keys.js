@@ -1,5 +1,6 @@
 /*
 Script Author: DecoAri
+Fix Author: GGcover
 Reference: https://raw.githubusercontent.com/nhutggvn/Config-VPN/main/js/TF_keys.js
 Specific Usage Steps:
 1: Import the plugin.
