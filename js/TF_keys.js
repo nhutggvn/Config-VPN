@@ -1,6 +1,6 @@
 /*
 Script Author: DecoAri
-Reference: https://github.com/DecoAri/JavaScript/blob/main/Surge/TF_keys.js
+Reference: https://raw.githubusercontent.com/nhutggvn/Config-VPN/main/js/TF_keys.js
 Specific Usage Steps:
 1: Import the plugin.
 2: Enable Mitm over Http2 on the Mitm page.

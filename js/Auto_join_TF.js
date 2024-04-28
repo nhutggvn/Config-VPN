@@ -1,7 +1,7 @@
 /*
 Script Author: DecoAri
 Fix Author: xream
-Reference: https://raw.githubusercontent.com/DecoAri/JavaScript/main/Surge/Auto_join_TF.js
+Reference: https://raw.githubusercontent.com/nhutggvn/Config-VPN/main/js/Auto_join_TF.js
 Thanks to a great person for adapting this script into Loon version!
 */
 !(async () => {
